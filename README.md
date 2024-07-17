@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indraneel</h1>
 <h3 align="center">A passionate Mobile App developer</h3>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently mainly pursuing **SwiftUI**
 
 - 💬 Ask me about **Flutter, Swift**
 
