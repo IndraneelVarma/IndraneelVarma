@@ -19,7 +19,7 @@
 Mobile Development
 • SwiftUI - Advanced iOS app development
 • Flutter - Cross-platform app development
-• MVVM Architecture Pattern
+• Compose - Android Native Development
 
 Backend & Database
 • Firebase (Authentication, Push Notifications, Realtime Database)
