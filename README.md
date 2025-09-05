@@ -4,7 +4,7 @@
 - 🌱 I'm currently mainly pursuing **SwiftUI**
 - 🚀 Developer and Maintainer of [Proptoll](https://apps.apple.com/in/app/proptoll/id6480278605), now available on the App Store
 - 💼 Maintaining enterprise projects in secure private repositories
-- 💬 Ask me about **SwiftUI, Flutter**
+- 💬 Ask me about **SwiftUI, Compose**
 - 📫 How to reach me **manthenaindraneel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
