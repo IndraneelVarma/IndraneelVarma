@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile App developer</h3>
 
 - 🌱 I'm currently mainly pursuing **SwiftUI**
-- 🚀 Creator of [Proptoll](https://apps.apple.com/in/app/proptoll/id6480278605), now available on the App Store
+- 🚀 Developer and Maintainer of [Proptoll](https://apps.apple.com/in/app/proptoll/id6480278605), now available on the App Store
 - 💼 Maintaining enterprise projects in secure private repositories
 - 💬 Ask me about **SwiftUI, Flutter**
 - 📫 How to reach me **manthenaindraneel@gmail.com**
